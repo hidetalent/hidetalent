@@ -5,4 +5,4 @@ cd termux-alpine
 chmod +x setup-termux-alpine
 bash setup-termux-alpine
 termux-alpine
-neofetch
+@Hidetalent
